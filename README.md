@@ -8,7 +8,7 @@ Sk Khurshid Alam
 ### Dependencies
 * [**Windows 7**](https://docs.microsoft.com/en-in/lifecycle/products/windows-7)
 * [**MS Excel 2007**](https://support.microsoft.com/en-us/office/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)
-** [**PostgreSQL**](https://www.postgresql.org/download/)
+* [**PostgreSQL**](https://www.postgresql.org/download/)
 
 ## Setup everything needed to run the software
 
