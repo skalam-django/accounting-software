@@ -22,8 +22,8 @@ Installation:
 Click on the setup.exe. 
 
 Launch:
-To launch the software click on the Accounting-Software shortcut icon created on desktop after a successfull installation.
-**Note:** The software won't without a paid license.Please contact admin to get a license.
+To launch the software click on the Accounting-Software shortcut icon created on desktop after a successfull installation.<br/>
+**Note:** The software won't run without a paid license.Please contact admin to get a license.<br/>
 
 
 
